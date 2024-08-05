@@ -22,3 +22,6 @@ developer = BroMandarin
 [html5]
 cssfile = /builtins/manifests/web/dark_theme.css
 
+[label]
+subpixels = 0
+
