@@ -35,3 +35,6 @@ default_texture_mag_filter = nearest
 [input]
 use_accelerometer = 0
 
+[physics]
+use_fixed_timestep = 1
+
