@@ -13,4 +13,6 @@ input_method = HiddenInputField
 
 [project]
 title = def-base
+version = 0.0
+developer = BroMandarin
 
