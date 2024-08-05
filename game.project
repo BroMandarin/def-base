@@ -25,3 +25,6 @@ cssfile = /builtins/manifests/web/dark_theme.css
 [label]
 subpixels = 0
 
+[sprite]
+subpixels = 0
+
